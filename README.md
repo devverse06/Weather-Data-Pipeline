@@ -527,17 +527,3 @@ This project uses:
 - Online PostgreSQL database for storing the weather pipeline data.
 
 🔗 [Supabase](https://supabase.com/)
-
----
-
-## 👤 Author
-
-### Biswajit Sasmal
-
-🎓 B.Sc. Mathematics Honours  
-💻 Data Analytics & Data Engineering
-
-🔗 **LinkedIn:** [linkedin.com/in/biswajitsasmal](https://www.linkedin.com/in/biswajitsasmal/)  
-📧 **Email:** [biswajitsasmal.data@gmail.com](mailto:biswajitsasmal.data@gmail.com)
-
----
